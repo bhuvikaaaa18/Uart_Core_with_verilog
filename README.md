@@ -53,5 +53,4 @@ Supported Baud Rates
 ## Tools Used
 
 - Vivado
-- ModelSim
 - Verilog HDL
