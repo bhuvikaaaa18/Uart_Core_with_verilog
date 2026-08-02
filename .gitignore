@@ -1,0 +1,14 @@
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.cache
+*.Xil
+*.sim
+*.runs
+*.hw
+*.tmp
+*.bak
+*.zip
+*.xdc.user
